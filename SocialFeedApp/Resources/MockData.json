@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "username": "Ravyatha",
+      "content": "This is my favorite cute video",
+      "imageURL": null,
+      "videoURL": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "timestamp":  "2025-08-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "username": "Ilay reigrow",
+      "content": "My favorite cat Picture!",
+      "imageURL": "https://i.postimg.cc/ZRt4jFws/cat-pic.jpg",
+      "videoURL": null,
+      "timestamp": "2025-08-02T09:30:00Z"
+    },
+    {
+      "id": 3,
+      "username": "Christopher tarten",
+      "content": "My First Post!",
+      "imageURL": "https://i.postimg.cc/7YkghHrR/bird.jpg",
+      "videoURL": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "timestamp": "2025-08-03T14:45:00Z"
+    },
+    {
+      "id": 4,
+      "username": "Rahman al saud",
+      "content": "Hi guys!",
+      "imageURL": null,
+      "videoURL": null,
+      "timestamp": "2025-08-04T08:15:00Z"
+    },
+    {
+      "id": 5,
+      "username": "Taeui",
+      "content": "Enjoying in Mountains!!! ",
+      "imageURL": "https://i.postimg.cc/bYDhrP91/sunrise.jpg",
+      "videoURL": "https://www.w3schools.com/html/movie.mp4",
+      "timestamp": "2025-08-04T16:00:00Z"
+    }
+  ]
