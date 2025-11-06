@@ -1,14 +1,3 @@
-# ios Assignment - challenge 3: Social Media Feed App
-
-## Submitted by
-- **Name**: Ravyatha Keerthi Molleti
-- **Registration Number**: RA2111030010274
-- **Course**: B.Tech - CSE with Cyber Security
-- **Assignment**: ios Assignment - Challenge 3: Architecture - Social Media Feed with MVVM
-with combine
-- **Company**: Flam
-
-## Problem Statement
 
 Build a Twitter-like social media feed application that demonstrates your understanding of MVVM architecture, UI modularity, and state management without using third-party architecture libraries.
 
